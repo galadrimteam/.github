@@ -1,6 +1,6 @@
 ![Bannière Galadrim](https://raw.githubusercontent.com/galadrimteam/.github/main/profile/galadrim-banner.png)
 
-Galadrim est une agence de développement web et mobile basée à Paris et Nantes.
+Galadrim est une agence de développement web et mobile basée à Paris, Nantes et Lyon.
 
 Nous aidons des start-ups, PMEs et grands groupes à lancer des produits digitaux innovants.
 
