@@ -1,7 +1,7 @@
-![Bannière Galadrim](https://raw.githubusercontent.com/galadrimteam/.github/main/profile/galadrim-banner.png)
+![Galadrim — votre partenaire tech & IA](https://raw.githubusercontent.com/galadrimteam/.github/main/profile/galadrim-banner.png)
 
-Galadrim est une agence de développement web et mobile basée à Paris, Nantes et Lyon.
+Galadrim est une agence IA et de développement sur mesure, basée à Paris, Lyon et Nantes.
 
-Nous aidons des start-ups, PMEs et grands groupes à lancer des produits digitaux innovants.
+Logiciels métiers, plateformes SaaS, agents IA, e-commerce : une équipe d'experts dédiée à votre produit, sans intermédiaire, jusqu'à la production.
 
-Nous recrutons activement 🙂 : [https://galadrim.fr/jobs/](https://galadrim.fr/jobs/)
+[galadrim.fr](https://galadrim.fr) · Nous recrutons : [galadrim.fr/carrieres](https://galadrim.fr/carrieres/)
